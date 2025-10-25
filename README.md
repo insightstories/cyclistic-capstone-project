@@ -19,7 +19,8 @@ How do casual riders and members differ in their usage of Cyclistic bike-share s
 - Presentation slides
 
 ## Folder Structure
-```cyclistic-capstone-project/
+```
+cyclistic-capstone-project/
 ├── appendices/
     ├── appendix-a.pdf
     ├── appendix-b.xlsx
@@ -27,6 +28,7 @@ How do casual riders and members differ in their usage of Cyclistic bike-share s
 ├── README.md
 ├── cyclistic-analysis-presentation.pdf
 ├── cyclistic-analysis-report.pdf
+├── sql-queries.sql
 ```
 
 ## Tools Used
@@ -39,7 +41,7 @@ The original (raw) data for this project was obtained from https://divvy-tripdat
 
 ## How to Reproduce
 - Download data at the URL provided above
-- Follow **Report:Process:Data Processing and Cleaning in Excel** and **Report:Process:Data Processing and Cleaning with SQL in BigQuery**
+- Follow **Report:Process:Data Processing and Cleaning in Excel** and **Report:Process:Data Processing and Cleaning with SQL in BigQuery**, plus the **sql-queries.sql**
 
 ## Author
 Shahin Khazai
