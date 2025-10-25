@@ -1,7 +1,7 @@
 # 📊 Cyclistic Capstone Project 🚲
 
 ## Project Overview
-This capstone project, which is part of the Google Data Analytics Professional Certificate, aims to analyze historical data of Cyclistic, a ride-share company, to understand the differences between how casual riders and annual members use these services differently. The results of the analysis are then to be used to drive the marketing strategies for converting casual riders into annual members.
+This capstone project, which is part of the Google Data Analytics Professional Certificate, aims to analyze historical data of Cyclistic, a bike-share company, to understand the differences between how casual riders and annual members use these services differently. The results of the analysis are then to be used to drive the marketing strategies for converting casual riders into annual members.
 
 This work also happens to be my very first comprehensive data analytics project and GitHub repository.
 
